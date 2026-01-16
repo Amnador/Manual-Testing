@@ -70,6 +70,9 @@ Style:
 
 The icon should respect the design token for icon color and the specified stroke width.
 
+<img width="617" height="427" alt="image" src="https://github.com/user-attachments/assets/fe5117e4-8c61-4129-ad67-5a6a859ff4d8" />
+
+
 ## Actual Result
 
 The live site is using a Lucide gauge icon instead of the custom SVG defined in Figma:
