@@ -69,7 +69,7 @@ Style:
 - `stroke: var(--base-icon-high, #000)`
 
 The icon should respect the design token for icon color and the specified stroke width.
-```
+ 
 
 <img width="617" height="427" alt="image" src="https://github.com/user-attachments/assets/fe5117e4-8c61-4129-ad67-5a6a859ff4d8" />
 
@@ -96,7 +96,7 @@ The live site is using a Lucide gauge icon instead of the custom SVG defined in 
   <path d="M3.34 19a10 10 0 1 1 17.32 0"></path>
 </svg>
 <img width="409" height="342" alt="image" src="https://github.com/user-attachments/assets/418bf2aa-78ff-4fb6-8956-39ccb8759320" />
-```
+ 
 
 Observed differences:
 
