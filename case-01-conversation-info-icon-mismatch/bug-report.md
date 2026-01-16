@@ -95,6 +95,8 @@ The live site is using a Lucide gauge icon instead of the custom SVG defined in 
   <path d="m12 14 4-4"></path>
   <path d="M3.34 19a10 10 0 1 1 17.32 0"></path>
 </svg>
+
+
 <img width="409" height="342" alt="image" src="https://github.com/user-attachments/assets/418bf2aa-78ff-4fb6-8956-39ccb8759320" />
  
 
